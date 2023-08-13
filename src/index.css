@@ -1,0 +1,8 @@
+body {
+  margin: 2rem;
+}
+
+.dir {
+  cursor: pointer;
+  color: blue
+}
